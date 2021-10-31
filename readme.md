@@ -27,7 +27,7 @@
 	```
 	verification code detected : 114514, continue query? [Y/n] y
 	```
-- 在终端中输入你的用户名和密码，为保证密码安全，输入过程中密码**不可见**，如输入出错可多次退格后重新输入：
+- 在终端中输入你的用户名和密码，为保证密码安全，输入过程中密码**不可见**，如输入出错可退格后重新输入：
 	```
 	please input your username: Y.J.Aickson
 	please input your password:
@@ -67,7 +67,7 @@
 	```
 	verification code detected : 114514, continue query? [Y/n] y
 	```
-- 在同一目录下创建`bv2008_config.txt`，若用户名为`Y.J.Aickson`密码为`114514`，`bv2008_config.txt`的内容如下
+- 在同一目录下创建`bv2008_config.txt`文件，若用户名为`Y.J.Aickson`密码为`114514`，`bv2008_config.txt`文件的内容如下
 	```
 	Y.J.Aickson
 	114514
